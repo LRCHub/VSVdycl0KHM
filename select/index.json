@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Milky Way",
+  "base_artist": "picco",
+  "createdAt": "2026-02-09T12:17:02.739858Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Goodbye Milky Way",
+      "artist": "Enigma",
+      "has_synced": false,
+      "path": "select/01_Goodbye_Milky_Way_Enigma.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Steamtrains To The Milky Way",
+      "artist": "Danny Wilson",
+      "has_synced": false,
+      "path": "select/02_Steamtrains_To_The_Milky_Way_Danny_Wilson.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Sun Goes Down On Milky Way",
+      "artist": "Gazebo",
+      "has_synced": false,
+      "path": "select/03_The_Sun_Goes_Down_On_Milky_Way_Gazebo.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Under the Milky Way",
+      "artist": "Say Lou Lou",
+      "has_synced": true,
+      "path": "select/04_Under_the_Milky_Way_Say_Lou_Lou.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Walking On the Milky Way",
+      "artist": "Orchestral Manoeuvres In the Dark",
+      "has_synced": true,
+      "path": "select/05_Walking_On_the_Milky_Way_Orchestral_Manoeuvres_In_the_Dark.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blood On the Milky Way",
+      "artist": "Sear Bliss",
+      "has_synced": false,
+      "path": "select/06_Blood_On_the_Milky_Way_Sear_Bliss.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Milky Way",
+      "artist": "Loudness",
+      "has_synced": false,
+      "path": "select/07_Milky_Way_Loudness.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Milky Way",
+      "artist": "The Pack",
+      "has_synced": true,
+      "path": "select/08_The_Milky_Way_The_Pack.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Beyond the Milky Way",
+      "artist": "Iron Butterfly",
+      "has_synced": true,
+      "path": "select/09_Beyond_the_Milky_Way_Iron_Butterfly.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Under the Milky Way",
+      "artist": "Tearwave",
+      "has_synced": false,
+      "path": "select/10_Under_the_Milky_Way_Tearwave.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Past the Milky Way",
+      "artist": "Ace Frehley",
+      "has_synced": true,
+      "path": "select/11_Past_the_Milky_Way_Ace_Frehley.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Under the Milky Way",
+      "artist": "The Church",
+      "has_synced": true,
+      "path": "select/12_Under_the_Milky_Way_The_Church.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "0668 - The Church - Under the Milky Way",
+      "artist": "The Church",
+      "has_synced": true,
+      "path": "select/13_0668_-_The_Church_-_Under_the_Milky_Way_The_Church.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Milky Way",
+      "artist": "Syd Barrett",
+      "has_synced": false,
+      "path": "select/14_Milky_Way_Syd_Barrett.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Milky Way",
+      "artist": "picco",
+      "has_synced": false,
+      "path": "select/pl_01_Milky_Way_picco.txt"
+    }
+  ]
+}
